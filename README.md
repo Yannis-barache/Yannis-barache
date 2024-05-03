@@ -17,8 +17,14 @@
 <a href="https://gitlab.com/Ya.nnis">
 <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://huggingface.co/yadz45">
+<img src="https://img.shields.io/badge/Huggingface-%230077B5.svg?style=for-the-badge&logoColor=white">
+</a>
 
 </div>
+
+
 <p></p>
 <p align="justify">
 Bienvenue sur ma page GitHub. Je suis Yannis BARACHE. Je suis actuellement un étudiant en informatique 
@@ -132,8 +138,8 @@ dans le cadre de mes études, mais également des projets personnels faits en pa
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Yannis-barache&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="rzashakeri's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannis-barache&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yannis's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=Yannis-barache&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Yannis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yannis-barache&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
 </details>
 
@@ -141,7 +147,7 @@ dans le cadre de mes études, mais également des projets personnels faits en pa
   <summary>Activity Graph 📈</summary>
   <br/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yannis-barache&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Yannis's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Yannis-barache&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -153,40 +159,11 @@ dans le cadre de mes études, mais également des projets personnels faits en pa
   <br/>
 </details>
 
-<details>
-  <summary>Mes projets 📌</summary>
-  <br/>
-  <a href="https://github.com/rzashakeri/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
-
-   <a href="https://github.com/rzashakeri/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
-
-   <a href="https://github.com/rzashakeri/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
-
-   <a href="https://github.com/rzashakeri/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rzashakeri&repo=personal-site&theme=default" />
- </a>
-
-</details>
-
 
 
 
 ## GitHub Profile Trophy 🏆
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yannis-barache&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yannis-barache&theme=onedark&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Gif QR code](https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif)
