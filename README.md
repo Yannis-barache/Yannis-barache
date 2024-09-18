@@ -27,15 +27,14 @@
 
 <p></p>
 <p align="justify">
-Bienvenue sur ma page GitHub. Je suis Yannis BARACHE. Je suis actuellement un étudiant en informatique 
-en deuxième année de BUT Informatique à l'IUT d'Orléans. 
-Ici, vous pourrez retrouver principalement des projets réalisés 
-dans le cadre de mes études, mais également des projets personnels faits en parralèle.
+Welcome on my GitHub account. I am Yannis BARACHE. I am currently in my third year of computer science at the IUT of Orléans.
+Here, you will mainly find projects done for my studies, but also personal projects done to improve my skills.
+
+During my third year of studies I did an internship at the company <a href="https://www.partnaire.fr">Partnaire</a> it
+is a French company that specializes in temporary work. I worked on the development of an artificial intelligence model.
 </p>
 
-## Mes outils et technologies préférées ⚙️
-
-> Outils, langages et technologies que j'ai déjà utilisées.
+## My favorite languages and tools 🛠️
 
 
 <table>
